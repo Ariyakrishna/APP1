@@ -1,0 +1,6 @@
+sonar.projectKey=sqp_5dc6779d67f331a5223672716827b46b6ec88968
+sonar.projectName=Backend
+sonar.projectVersion=1.0
+
+sonar.sources=Backend1,Backend2,Backend3
+sonar.sourceEncoding=UTF-8
